@@ -1,0 +1,28 @@
+.titulo {
+    margin: 30px;
+    color: black    ;
+    text-align: center;
+}
+
+.subtitulo {
+    margin: 30px;
+    color: black    ;
+    text-align: center;
+}
+
+.sobremim {
+    margin: 30px;
+    color: blue;
+    text-align: center;
+}
+
+.descriçãosobremim {
+    color: blue ;
+    text-align: center;
+    margin: 30px;
+}
+
+body {
+    background-color: #b9d4d2;
+    font-family: Arial, sans-serif;
+}
