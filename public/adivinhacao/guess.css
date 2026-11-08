@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#caixa {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
