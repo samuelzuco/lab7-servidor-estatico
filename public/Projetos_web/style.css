@@ -1,0 +1,24 @@
+.tabela_projetos{
+    width: 90%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+.tabela_projetos {
+    background-color: #87f187;
+    padding: 10px;
+    text-align: left;
+}
+
+.titulo{   
+    margin: 30px;
+    background-color: #019e2383;
+    text-align: center;
+}
+
+body{
+    background-color: #005f5f;
+    font-family: Arial, sans-serif;
+}
+
